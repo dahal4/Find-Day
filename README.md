@@ -1,7 +1,7 @@
 # day_finder
 
 A new Flutter project.
-
+![picture](Find-Day/138750652_124397332835738_7167774732104695997_n.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
