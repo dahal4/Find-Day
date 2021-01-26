@@ -1,6 +1,6 @@
 # day_finder
-
-A new Flutter project.
+Using the theory of vedic math ,this app is build.
+It uses simple math formula not complex algorithms...</br>
 ![picture](138750652_124397332835738_7167774732104695997_n.jpg)
 ## Getting Started
 
